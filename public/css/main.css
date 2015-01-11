@@ -1,0 +1,17 @@
+.hero {
+	background-color: rgb(46, 148, 0);
+}
+
+.event {
+	border-bottom: 3px solid #333333;
+	padding-bottom: 5px;
+}
+
+.event-grid {
+	float: left;
+	padding-right: 50px;
+}
+
+.clear {
+	clear: both;
+}
